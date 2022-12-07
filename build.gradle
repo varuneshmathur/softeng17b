@@ -11,7 +11,7 @@ targetCompatibility = "1.8"
 //project.group = ...
 //project.version = ...
 
-task wrapper(type: Wrapper) {
+wrapper(type: Wrapper) {
     gradleVersion = '4.3.1'
 }
 
